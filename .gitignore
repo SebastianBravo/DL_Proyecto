@@ -219,3 +219,9 @@ __marimo__/
 
 # MacOS
 .DS_Store
+
+# Deep Learning Models and Checkpoints (Transformer BETO)
+results/transformer_checkpoints_balanced/
+results/transformer_checkpoints_big_ahr/
+results/models/Transformer_BETO_balanced/
+results/models/Transformer_BETO_big_ahr/
