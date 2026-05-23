@@ -1,9 +1,9 @@
 {
   "vocab_size": 20000,
   "max_len": 150,
-  "train_size": 12714,
-  "val_size": 1589,
-  "test_size": 1590,
-  "pos_train": 10577,
-  "neg_train": 2137
+  "train_size": 9271,
+  "val_size": 1159,
+  "test_size": 1159,
+  "pos_train": 7629,
+  "neg_train": 1642
 }
